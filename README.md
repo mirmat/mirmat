@@ -1,4 +1,4 @@
-## 🙏, I'm Miroslaw
+## 👋, I'm Miroslaw
 ### Web Developer 💻
 
 [![](https://img.shields.io/badge/LinkedIn-miroslawmatusiak-blue)](https://www.linkedin.com/in/miroslawmatusiak/)
